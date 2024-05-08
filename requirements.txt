@@ -1,0 +1,6 @@
+transformers
+adapter-transformers
+datasets
+seqeval
+ptvsd
+sentencepiece
